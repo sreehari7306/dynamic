@@ -3,3 +3,14 @@
     width: 2000px;
     background-color: rgba(24, 150, 192, 0.877);
 }
+.div2{
+    position: relative;
+    left: 397px;
+    height: 100px;
+    width:200px;
+}
+.p{
+   position:relative;
+   left:600px; 
+}
+
