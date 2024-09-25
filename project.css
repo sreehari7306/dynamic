@@ -1,16 +1,53 @@
-.div1{
+ .nav{
+    background-color: white;
+    height: 1500px;
+    width: 100px;
+    justify-content: left;
+ }
+ .div1{
     height: 40px;
-    width: 2000px;
-    background-color: rgba(24, 150, 192, 0.877);
+    width: 2010px;
+    background-color:blue;
+}
+.div2{
+    display: block;
+    margin-left:0%;
+    margin-right:auto;
+    width: 200%;
+
+    
+}
+.div3{
+    position: relative;
+    left: 1050px;
+    bottom: 205px;
+
+
+
+}
+
+
+    
+.centered-image{
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    width: 50%;
+}
+
+h2{
+    font-size: 100px;
+
+}
+.div{
+    width: 800px;
+    height: 100px;
+    position: relative;
+    left: 200px;
 }
 .div2{
     position: relative;
-    left: 397px;
-    height: 100px;
-    width:200px;
-}
-.p{
-   position:relative;
-   left:600px; 
+    bottom: 100px;
+   
 }
 
