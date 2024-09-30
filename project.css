@@ -1,19 +1,25 @@
- .nav{
+.nav{
     background-color: white;
     height: 1500px;
     width: 100px;
     justify-content: left;
  }
+ 
+ 
  .div1{
     height: 40px;
     width: 2010px;
-    background-color:blue;
+    background-color:  rgba(16, 112, 175, 0.986);
 }
+
+
+
 .div2{
     display: block;
     margin-left:0%;
     margin-right:auto;
-    width: 200%;
+    width: 200px;
+    height: 100px;
 
     
 }
@@ -32,11 +38,12 @@
     display: block;
     margin-left:auto;
     margin-right:auto;
-    width: 50%;
+    width: 60%;
 }
 
 h2{
-    font-size: 100px;
+    font-size: 70px;
+
 
 }
 .div{
@@ -47,7 +54,47 @@ h2{
 }
 .div2{
     position: relative;
-    bottom: 100px;
+    bottom: 70px;
    
 }
+.div3{
+    font-size: 100px;
+    position: relative;
+    bottom:100px;
+    
+}
+.div4{
+    position: relative;
+    bottom: 400px;
+    left:60px;
+    width: 800px;
+    
 
+
+}
+.radio{
+    font-size: 20px;
+    width:300px;
+    position: relative;
+    bottom: 380px;
+    left:90px;
+    color: rgba(16, 112, 175, 0.986);
+}
+.text{
+    position: relative;
+    bottom: 350px;
+    left: 100px;
+    
+
+}
+.logo{
+    position: relative;
+    bottom: 20px;
+
+}
+.centered-image{
+   position: relative;
+   top:150px;
+   left:60px;
+   width: 350px;
+}
