@@ -15,11 +15,10 @@
 
 
 .div2{
-    display: block;
-    margin-left:0%;
-    margin-right:auto;
-    width: 200px;
-    height: 100px;
+   position: relative;
+   top:30px;
+
+
 
     
 }
@@ -97,4 +96,9 @@ h2{
    top:150px;
    left:60px;
    width: 350px;
+}
+.div5{
+    position: relative;
+    left: 600px;
+    top: 200px;
 }
