@@ -53,20 +53,25 @@ h2{
 }
 .div2{
     position: relative;
-    bottom: 70px;
+    bottom: px;
+    left: 100px;
+    top: 80px;
    
 }
 .div3{
     font-size: 100px;
     position: relative;
-    bottom:100px;
+    bottom:54px;
+    
     
 }
 .div4{
+
     position: relative;
-    bottom: 400px;
+    width: 2000px;
+    bottom: 350px;
     left:60px;
-    width: 800px;
+    
     
 
 
@@ -75,13 +80,13 @@ h2{
     font-size: 20px;
     width:300px;
     position: relative;
-    bottom: 380px;
+    bottom: 300px;
     left:90px;
     color: rgba(16, 112, 175, 0.986);
 }
 .text{
     position: relative;
-    bottom: 350px;
+    bottom: 270px;
     left: 100px;
     
 
@@ -100,5 +105,9 @@ h2{
 .div5{
     position: relative;
     left: 600px;
+    top: 200px;
+}
+.div6{
+    position: relative;
     top: 200px;
 }
