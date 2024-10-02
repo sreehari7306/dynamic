@@ -1,0 +1,52 @@
+.nav{
+    width: 2000px;
+    height: 50px;
+    background-color: black;
+}
+p{
+    color: blue;
+}
+.div1{
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+.div2{
+    position: relative;
+    top: 100px;
+    left:100px;
+}
+.div3{
+    position: relative;
+    top:100px;
+    left: 100px;
+
+}
+.div4{
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+.div5{
+    position:relative;
+    top:100px;
+    left:100px;
+}
+.div6{
+    position:relative;
+    top:100px;
+    left:100px;
+
+}
+.div7{
+    position:relative;
+    top:100px;
+    left:100px;
+
+}
+.div8{
+    position: relative;
+    left: 1000px;
+    bottom:1050px;
+}
+
