@@ -1,11 +1,15 @@
 .nav{
-    width: 2000px;
+    width: 25000px;
     height: 50px;
-    background-color: #ffffff00;
+    background-color: #006ab1c2;
+    position: relative;
+    bottom: 30px;
+
    
 }
 body{
     background-color: rgb(212, 211, 211);
+
 }
 p{
     color: blue;
@@ -134,6 +138,112 @@ h3{
     height: 20px;
 
 }
+.div20{
+    position: relative;
+    left: 600px;
+    color:white;
+    bottom: 250px;
+
+}
+.div21{
+    position: relative;
+    left: 600px;
+    color:white;
+    bottom: 250px;
+    color: black;
+    background-color: white;
+    width: 100px;
+    height: 20px;
 
 
+}
+.div22{
+    position: relative;
+    left: 600px;
+    color:white;
+    bottom: 250px;
 
+
+}
+.div23{
+    position: relative;
+    left: 600px;
+    color:white;
+    bottom: 250px;
+    color: black;
+    background-color: white;
+    width: 100px;
+    height: 20px;
+}
+
+.div24{
+    position: relative;
+    left: 200px;
+    color:white;
+    bottom: 500px;
+
+}
+.div25{
+    position: relative;
+    left: 200px;
+    bottom: 500px;
+    color: black;
+    background-color: white;
+    width:100px;
+    height: 20px;
+}
+
+.div26{
+    position: relative;
+    left: 200px;
+    color:white;
+    bottom: 500px;
+}
+.div27{
+    position: relative;
+    left: 200px;
+    bottom: 500px;
+    color: black;
+    background-color: white;
+    width:100px;
+    height: 20px;
+
+}
+.div28{
+    position: relative;
+    left: 200px;
+    color:white;
+    bottom: 500px;
+}
+.div29{
+    position: relative;
+    left: 200px;
+    bottom: 500px;
+    color: black;
+    background-color: white;
+    width:100px;
+    height: 20px;
+}
+.div30{
+    position: relative;
+    width: 2000px;
+    height: 200px;
+    background-color:gray;
+    bottom: 400px;
+
+}
+.div31{
+    position: relative;
+    bottom:600px;
+    left:px;
+}
+.div32{
+    position: relative;
+    bottom:4190px;
+    height: 100px;
+    width: 100px;
+
+}
+.div32{
+    
+}
