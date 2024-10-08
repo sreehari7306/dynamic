@@ -239,11 +239,37 @@ h3{
 }
 .div32{
     position: relative;
-    bottom:4190px;
-    height: 100px;
+    bottom:4230px;
+    height: 50px;
     width: 100px;
+    left: 50px;
+    
 
 }
-.div32{
+h1{
+    position: relative;
+    left: 100px;
+    bottom: 62px;
+    font-size: 2em; /* Relative to the parent element's font size */
+    width: 500px;
+    color: white;
+
     
+}
+.radio{
+    position: relative;
+    bottom: 4270px;
+    left: 900px;
+    color: white;
+}
+.div33{
+    position: relative;
+    bottom: 4290px;
+    left: 1150px;
+}
+h4{
+    position: relative;
+    left: 50px;
+    bottom: 50px;
+    color: white;
 }
