@@ -1,6 +1,6 @@
 .nav{
     width: 25000px;
-    height: 50px;
+    height: 70px;
     background-color: #006ab1c2;
     position: relative;
     bottom: 30px;
@@ -236,13 +236,14 @@ h3{
     position: relative;
     bottom:600px;
     left:px;
+    width: 2000px;
 }
 .div32{
     position: relative;
-    bottom:4230px;
+    bottom:4330px;
     height: 50px;
     width: 100px;
-    left: 50px;
+    left: 80px;
     
 
 }
@@ -258,18 +259,19 @@ h1{
 }
 .radio{
     position: relative;
-    bottom: 4270px;
-    left: 900px;
+    bottom: 4370px;
+    left: 1500px;
     color: white;
 }
 .div33{
     position: relative;
-    bottom: 4290px;
-    left: 1150px;
+    bottom: 4400px;
+    left: 1170px;
+    font-size: 2em; /* Relative to the parent element's font size */
 }
 h4{
     position: relative;
-    left: 50px;
-    bottom: 50px;
+    left: 70px;
+    bottom: 85px;
     color: white;
 }
